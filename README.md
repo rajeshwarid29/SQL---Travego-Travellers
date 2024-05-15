@@ -5,6 +5,7 @@ It has the record of the passengers and price to travel between two cities by bu
 for types (Sitting and Sleeper).
 
 **Problem Statement:**
+
 ● Creating the two tables
 
 ● Inserting data in these tables
